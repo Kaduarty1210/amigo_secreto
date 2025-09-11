@@ -1,2 +1,2 @@
-# amigo_secreto
-La página permite ingresar nombres de amigos en una lista y posteriormente elegir al ganador por medio de un sorteo aleatorio.
+<h1 align="center"> Amigo secreto </h1>
+Este proyecto en colaboración con Oracle Next Education y Alura LATAM 
